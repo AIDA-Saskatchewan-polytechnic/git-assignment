@@ -32,4 +32,9 @@ I am Darshilkumar Aslaliya. I was allocated the assignment named - git immersion
 
 I am Vismay Patel and I skimmed through all the tryGit Tutorials, which cover areas like what Git is, how to use it, how to set it up, and how to log in to GitHub using Git. It was obvious what to do next. I was able to switch between local and remote updates using Git and GitHub once I successfully pushed the modified files to GitHub. I believe GitHub to be a very helpful tool, and we are no longer worried about misplacing actually written code. I read through every one of the major git lessons, including those regarding branching, merging, rebasing, and several others.
 
+Siddharth Naidu - 
+
+I did the Git-Immersion exercises. Its a great start to know the basics of Git and Github and how you can start commiting, reverting and managing conflicts in changes you make.
+Disadvantage - It would be nicer if there is a stepped-down level of the exercises so if there is someone with little / no knowledge of git, it would be more understandable
+
 I am Kishan Thanki and I performed all the tryGit Tutorials, which covered Signing up for a GitHub account, Created new account username, Configured Username and Email, Cloned the repo, Created new repo with readme.md, Push changes in new repo, Forked a repo, Managed files, Watched a repo. I read and performed all the useful commands like rebase, stash and merging branches.
