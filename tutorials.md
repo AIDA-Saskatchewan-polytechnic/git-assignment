@@ -24,4 +24,7 @@ I am Sangeeta Nandy.I studied all main git tutorials including branching,merging
 I am simmerjeet singh.I studied trygit tutorial and learned about the Git , using Git on the command line and how to setup git on your system.
 I learned how to create a repository,fork a repository without changing the orignal project.We can also interact with others who are working on project and by using cheatsheet we can save our time.All topics on trygit are explain precisely.
 
-Hi I'm Chithra , The Git immersion was a helpful tutorial that covers the basics and fundamentals of git (merge, checkout, etc…). It is easy to follow with clear instructions. 
+Hi I'm Chithra , The Git immersion was a helpful tutorial that covers the basics and fundamentals of git (merge, checkout, etc…). It is easy to follow with clear instructions.
+
+Hi, I'm Jinalkumar, I gained knowledge of Git Branching and the capabilities of several GIT commands, including how to build branches, merge, and rebase, among many more. Thanks to the questions that accompanied each session, it was easy to practice and learn how the instructions truly function in a real context. The primary and remote components of the instructional were divided into two halves, and this was its strongest point. In the remote segment, we were able to learn more about the pull and push directions. We extracted the file from the main branch, established a separate branch, performed the necessary adjustments, and then merged it. No one's data was lost even after working concurrently on the same file with others.
+
