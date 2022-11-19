@@ -6,3 +6,10 @@ I am Meet Patel. I have gone through all the git lessons and I learnt that how t
 
 I am Anita Kayada.I studied all main git tutorials including branching,merging, rebasing,cherry-pick and many more. It was easy to solve all the questions as instructions were clear and concise from basic to advance levels.Git branches are effectively a pointer to a snapshot of changes.
 In Git baranching 1st we can create a branch,make all the changes,then we can merge to the main branch andonce we done we can delete that branch.I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
+
+Hello, I am Jitendra Singh Shekhawat
+ 
+I was assigned a trygit tutorial for the assignment and through this tutorial I learned what Git is, using Git on the command line and how to setup git on your system. Also, I got to know about how I can authenticate with GitHub from git using either HTTPS or SSH. Further, I studied how I can create repositories, make changes and manage files on github using both CLI and web browser. 
+ 
+All the topics in the trygit tutorials were explained in a precise manner, but I feel that the other 2 tutorials were easier to understand and more interactive compared to this tutorial. 
+
