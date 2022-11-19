@@ -1,4 +1,4 @@
-I am Ze Sun. I studied tryGit Tutorials including what is Git, how to use Git, how to set up Git, and how to authenticate with GitHub from Git. It was clear to follow these steps. I successfully pushed the changed files to GitHub and could use Git and GitHub to switch between local and remote updates. GitHub is a very useful tool for us and we no longer have to worry about losing the code we just wrote.
+﻿I am Ze Sun. I studied tryGit Tutorials including what is Git, how to use Git, how to set up Git, and how to authenticate with GitHub from Git. It was clear to follow these steps. I successfully pushed the changed files to GitHub and could use Git and GitHub to switch between local and remote updates. GitHub is a very useful tool for us and we no longer have to worry about losing the code we just wrote.
 
 I am Rohit Kumar. I went through all of the major git lessons, including those on branching, merging, rebasing, and other topics. All of the questions were simple to answer because the directions, from beginner to advanced levels, were clear and straightforward. I quickly learned all the fundamentals of git, but if we want to examine a particular step, i must start from scratch.
 
@@ -31,3 +31,8 @@ Hi, I'm Jinalkumar, I gained knowledge of Git Branching and the capabilities of 
 I am Darshilkumar Aslaliya. I was allocated the assignment named - git immersion. After reading the git immersion, I installed git and ruby.  Additionally, I learned how to set up a git repository, verify its status, keep track of the working directory's condition, and stage changes for subsequent commits. Also, I comprehend how to browse a project's history and create aliases and shortcuts for git commands. Furthermore, I have executed commands that correctly undo local and staged changes, roll back changes that have already been committed, and erase the commit. I've merged, created, and traversed branches and changed the master branch.
 
 I am Vismay Patel and I skimmed through all the tryGit Tutorials, which cover areas like what Git is, how to use it, how to set it up, and how to log in to GitHub using Git. It was obvious what to do next. I was able to switch between local and remote updates using Git and GitHub once I successfully pushed the modified files to GitHub. I believe GitHub to be a very helpful tool, and we are no longer worried about misplacing actually written code. I read through every one of the major git lessons, including those regarding branching, merging, rebasing, and several others.
+
+Manish Nagabhushan here. I followed the "trygit" tutorial and discovered how to set up git on your machine, use Git on the command line, and use Git.
+I discovered how to fork and create repositories without altering the original code.
+Additionally, we can collaborate with others on the project and save time by using a cheat sheet.
+Every topic in Trygit is thoroughly explained.
