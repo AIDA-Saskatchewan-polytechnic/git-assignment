@@ -37,3 +37,5 @@ Siddharth Naidu -
 I did the Git-Immersion exercises. Its a great start to know the basics of Git and Github and how you can start commiting, reverting and managing conflicts in changes you make.
 Disadvantage - It would be nicer if there is a stepped-down level of the exercises so if there is someone with little / no knowledge of git, it would be more understandable
 
+I am Abhishek Malpotra. In this assignment, I got familiar with cloning git repositories, creating branches and merging back to the main. Further, I went through the Learn git branching tutorial, which made me aware of the concepts of a head of a repository, modifying the source tree and more. It was an excellent hands-on tutorial about the ideas and code for branching. It could have been better for beginners as I had to do more research to understand the terms better.
+
