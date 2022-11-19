@@ -3,3 +3,6 @@ I am Ze Sun. I studied tryGit Tutorials including what is Git, how to use Git, h
 I am Rohit Kumar. I went through all of the major git lessons, including those on branching, merging, rebasing, and other topics. All of the questions were simple to answer because the directions, from beginner to advanced levels, were clear and straightforward. I quickly learned all the fundamentals of git, but if we want to examine a particular step, i must start from scratch.
 
 I am Meet Patel. I have gone through all the git lessons and I learnt that how to create repository, fork repository, follow someone on github, ask queries and doubts using communication, git cheat sheet which includes basic github commands. We can help on someone else project using github through forking.
+
+I am Anita Kayada.I studied all main git tutorials including branching,merging, rebasing,cherry-pick and many more. It was easy to solve all the questions as instructions were clear and concise from basic to advance levels.Git branches are effectively a pointer to a snapshot of changes.
+In Git baranching 1st we can create a branch,make all the changes,then we can merge to the main branch andonce we done we can delete that branch.I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
