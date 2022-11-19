@@ -34,5 +34,5 @@ I am Vismay Patel and I skimmed through all the tryGit Tutorials, which cover ar
 
 Manish Nagabhushan here. I followed the "trygit" tutorial and discovered how to set up git on your machine, use Git on the command line, and use Git.
 I discovered how to fork and create repositories without altering the original code.
-Additionally, we can collaborate with others on the project and save time by using a cheat sheet.
+Additionally,, we can collaborate with others on the project and save time by using a cheat sheet.
 Every topic in Trygit is thoroughly explained.
