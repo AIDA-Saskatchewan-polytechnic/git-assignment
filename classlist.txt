@@ -19,7 +19,7 @@ I am Suvedhan Siva student of Saskpolytech studying AIDA course.
 =======
 <<<<<<< HEAD
 I am Manish Nagabhushan student of Saskpolytech studying AIDA
-=======
+======
 I am Kishan Thanki student of Saskpolytech studying AIDA.
 I an Siddharth studnt of Saskpolytech AIDA
 I am Abhishek Malpotra, a student of SaskPloytech studying AIDA.
