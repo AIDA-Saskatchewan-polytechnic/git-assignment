@@ -61,3 +61,5 @@ I am Helly, The TryGit tutorials helped me understand how to establish a Git on 
 I am Naveen, study trygit tutorial. it helped me to learn git, github, create repository, how to fork, make branches, merge branches and push everything into Github. the tutorial was very easy to understand and was very helpful. 
 
 This is Brijesh Gohil, I have gone through all the major Git tutorials which includes Branching, Merging, Rebasing, etc. Lessons were designed in such a way that there were more than enough tutorials & practice questions to learn the lessons thoroughly. 
+
+I'm Fathima Asharaf. Git Immerse has a lots of git commands which I find very helpful and easy to understand. Also, got to setup and work with ruby. I came across a lot of basic commands like add, init, commit and created new repository and pushing it to GitHub. I find this tutorials to be very effecting and beginner-friendly.
