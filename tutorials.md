@@ -32,4 +32,4 @@ I am Darshilkumar Aslaliya. I was allocated the assignment named - git immersion
 
 I am Vismay Patel and I skimmed through all the tryGit Tutorials, which cover areas like what Git is, how to use it, how to set it up, and how to log in to GitHub using Git. It was obvious what to do next. I was able to switch between local and remote updates using Git and GitHub once I successfully pushed the modified files to GitHub. I believe GitHub to be a very helpful tool, and we are no longer worried about misplacing actually written code. I read through every one of the major git lessons, including those regarding branching, merging, rebasing, and several others.
 
-I am Suvedhan Siva. I studied the given tutorial. I was able understand connecting over SSH, creating  a repo and fork a repo.The tutorial was easy and simple to understand. But, for the SSH part I had to refer youtube.
+I am Suvedhan Siva. I studied the given tutorial. I was able understand connecting over SSH, creating  a repo and fork a repo.The tutorial was simple and easy to understand. But, for the SSH part I had to refer youtube.
