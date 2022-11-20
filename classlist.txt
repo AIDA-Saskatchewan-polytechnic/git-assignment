@@ -14,15 +14,9 @@ I am Chithra student of Saskpolytech studying AIDA.
 I am Jinalkumar student of Saskpolytech studying AIDA.
 I am Darshilkumar Aslaliya student of saskpolytech studying AIDA.
 I am Vismay Patel student of Saskpolytech studying AIDA.
-<<<<<<< HEAD
 I am Suvedhan Siva student of Saskpolytech studying AIDA course.
-=======
-<<<<<<< HEAD
 I am Manish Nagabhushan student of Saskpolytech studying AIDA
-======
 I am Kishan Thanki student of Saskpolytech studying AIDA.
 I an Siddharth studnt of Saskpolytech AIDA
 I am Abhishek Malpotra, a student of SaskPloytech studying AIDA.
->>>>>>> ea68f730afba092a1bd72e1b01e4af2c2e7925c0
->>>>>>> 864e17e017871ad114de5e50c2ffac1a6be5cd56
 I am Taniya student of saskpolytech studying AIDA
