@@ -52,4 +52,3 @@ I am Abhishek Malpotra. In this assignment, I got familiar with cloning git repo
 
 >>>>>>> ea68f730afba092a1bd72e1b01e4af2c2e7925c0
 >>>>>>> 864e17e017871ad114de5e50c2ffac1a6be5cd56
-I am Taniya, I studied trygit tutorial and I learned about git, github, clonning the repo on my system, how to fork, make new branches and merge them with master. Working on files, making changes in them and pushing them to github.  
