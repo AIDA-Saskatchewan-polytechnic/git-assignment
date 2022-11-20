@@ -32,7 +32,19 @@ I am Darshilkumar Aslaliya. I was allocated the assignment named - git immersion
 
 I am Vismay Patel and I skimmed through all the tryGit Tutorials, which cover areas like what Git is, how to use it, how to set it up, and how to log in to GitHub using Git. It was obvious what to do next. I was able to switch between local and remote updates using Git and GitHub once I successfully pushed the modified files to GitHub. I believe GitHub to be a very helpful tool, and we are no longer worried about misplacing actually written code. I read through every one of the major git lessons, including those regarding branching, merging, rebasing, and several others.
 
+<<<<<<< HEAD
 Manish Nagabhushan here. I followed the "trygit" tutorial and discovered how to set up git on your machine, use Git on the command line, and use Git.
 I discovered how to fork and create repositories without altering the original code.
 Additionally,, we can collaborate with others on the project and save time by using a cheat sheet.
 Every topic in Trygit is thoroughly explained.
+=======
+Siddharth Naidu - 
+
+I did the Git-Immersion exercises. Its a great start to know the basics of Git and Github and how you can start commiting, reverting and managing conflicts in changes you make.
+Disadvantage - It would be nicer if there is a stepped-down level of the exercises so if there is someone with little / no knowledge of git, it would be more understandable
+
+I am Kishan Thanki and I performed all the tryGit Tutorials, which covered Signing up for a GitHub account, Created new account username, Configured Username and Email, Cloned the repo, Created new repo with readme.md, Push changes in new repo, Forked a repo, Managed files, Watched a repo. I read and performed all the useful commands like rebase, stash and merging branches.
+
+I am Abhishek Malpotra. In this assignment, I got familiar with cloning git repositories, creating branches and merging back to the main. Further, I went through the Learn git branching tutorial, which made me aware of the concepts of a head of a repository, modifying the source tree and more. It was an excellent hands-on tutorial about the ideas and code for branching. It could have been better for beginners as I had to do more research to understand the terms better.
+
+>>>>>>> ea68f730afba092a1bd72e1b01e4af2c2e7925c0
