@@ -50,5 +50,4 @@ I am Kishan Thanki and I performed all the tryGit Tutorials, which covered Signi
 
 I am Abhishek Malpotra. In this assignment, I got familiar with cloning git repositories, creating branches and merging back to the main. Further, I went through the Learn git branching tutorial, which made me aware of the concepts of a head of a repository, modifying the source tree and more. It was an excellent hands-on tutorial about the ideas and code for branching. It could have been better for beginners as I had to do more research to understand the terms better.
 
->>>>>>> ea68f730afba092a1bd72e1b01e4af2c2e7925c0
->>>>>>> 864e17e017871ad114de5e50c2ffac1a6be5cd56
+I am Taniya, I studied trygit tutorial and i learned about git, github, clonning the repo on my system, how to fork, make new branches and merge them with master. Working on files, making changes in them and pushing them to github.
