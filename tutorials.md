@@ -59,3 +59,5 @@ I am Mitali Patel.I practised cloning git repositories, making branches, and mer
 I am Helly, The TryGit tutorials helped me understand how to establish a Git on the command line, download and set up a Git, configure a login and email address in a Git repository, and connect with GitHub from a Git repository. The steps make it simpler to push or pull files from GitHub, create SSH keys on the machine, and clone using SSH. One may backup the code after creating a repository, and I learnt how to fork a repository, which lets you alter one repository without changing the data itself.
 
 I am Naveen, study trygit tutorial. it helped me to learn git, github, create repository, how to fork, make branches, merge branches and push everything into Github. the tutorial was very easy to understand and was very helpful. 
+
+This is Brijesh Gohil, I have gone through all the major Git tutorials which includes Branching, Merging, Rebasing, etc. Lessons were designed in such a way that there were more than enough tutorials & practice questions to learn the lessons thoroughly. 
