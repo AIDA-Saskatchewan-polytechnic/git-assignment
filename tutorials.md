@@ -1,7 +1,5 @@
 ﻿I am Ze Sun. I studied tryGit Tutorials including what is Git, how to use Git, how to set up Git, and how to authenticate with GitHub from Git. It was clear to follow these steps. I successfully pushed the changed files to GitHub and could use Git and GitHub to switch between local and remote updates. GitHub is a very useful tool for us and we no longer have to worry about losing the code we just wrote.
 
-I am Rohit Kumar. I went through all of the major git lessons, including those on branching, merging, rebasing, and other topics. All of the questions were simple to answer because the directions, from beginner to advanced levels, were clear and straightforward. I quickly learned all the fundamentals of git, but if we want to examine a particular step, i must start from scratch.
-
 I am Meet Patel. I have gone through all the git lessons and I learnt that how to create repository, fork repository, follow someone on github, ask queries and doubts using communication, git cheat sheet which includes basic github commands. We can help on someone else project using github through forking.
 
 I am Anita Kayada.I studied all main git tutorials including branching,merging, rebasing,cherry-pick and many more. It was easy to solve all the questions as instructions were clear and concise from basic to advance levels.Git branches are effectively a pointer to a snapshot of changes.
@@ -63,3 +61,5 @@ I am Naveen, study trygit tutorial. it helped me to learn git, github, create re
 This is Brijesh Gohil, I have gone through all the major Git tutorials which includes Branching, Merging, Rebasing, etc. Lessons were designed in such a way that there were more than enough tutorials & practice questions to learn the lessons thoroughly. 
 
 I'm Fathima Asharaf. Git Immerse has a lots of git commands which I find very helpful and easy to understand. Also, got to setup and work with ruby. I came across a lot of basic commands like add, init, commit and created new repository and pushing it to GitHub. I find this tutorials to be very effecting and beginner-friendly.
+
+I am Rohit Kumar. I went through all of the major git lessons, including those on branching, merging, rebasing, and other topics. All of the questions were simple to answer because the directions, from beginner to advanced levels, were clear and straightforward. I quickly learned all the fundamentals of git, but if we want to examine a particular step, i must start from scratch.

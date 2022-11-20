@@ -1,5 +1,4 @@
 I am Ze Sun student of SaskPloytech studying AIDA
-I am Kumar Rohit student of SaskPloytech studying AIDA
 I am Meet student of Saskpolytech studying AIDA
 I am Jerry student of Saskpolytech studying AIDA
 I am Nilesh Gupta from Saskpolytech Studying AIDA
@@ -26,3 +25,4 @@ I am Helly Patel student of SaskPloytech studying AIDA.
 I am Naveen Yadav Pantham Student of Saskpolytech Studying AIDA.
 This is Brijesh Gohil, student at Saskpolytech, currently studying AIDA.
 I am Fathima Asharaf student of SaskPloytech studying AIDA.
+I am Kumar Rohit student of SaskPloytech studying AIDA
