@@ -63,3 +63,5 @@ This is Brijesh Gohil, I have gone through all the major Git tutorials which inc
 I'm Fathima Asharaf. Git Immerse has a lots of git commands which I find very helpful and easy to understand. Also, got to setup and work with ruby. I came across a lot of basic commands like add, init, commit and created new repository and pushing it to GitHub. I find this tutorials to be very effecting and beginner-friendly.
 
 I am Rohit Kumar. I went through all of the major git lessons, including those on branching, merging, rebasing, and other topics. All of the questions were simple to answer because the directions, from beginner to advanced levels, were clear and straightforward. I quickly learned all the fundamentals of git, but if we want to examine a particular step, i must start from scratch.
+
+I am Dhruvin Patel & after studying GitHub tutorial, it was really helpful for a beginner to quickly and thorughly understand all the functions like add, init, commit, etc. Those tutorials are very effective. Also, functions like branching, merging, rebasing and many other important lessons were pretty easy to learn.
