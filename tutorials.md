@@ -38,3 +38,6 @@ I did the Git-Immersion exercises. Its a great start to know the basics of Git a
 Disadvantage - It would be nicer if there is a stepped-down level of the exercises so if there is someone with little / no knowledge of git, it would be more understandable
 
 I am Kishan Thanki and I performed all the tryGit Tutorials, which covered Signing up for a GitHub account, Created new account username, Configured Username and Email, Cloned the repo, Created new repo with readme.md, Push changes in new repo, Forked a repo, Managed files, Watched a repo. I read and performed all the useful commands like rebase, stash and merging branches.
+
+I am Abhishek Malpotra. In this assignment, I got familiar with cloning git repositories, creating branches and merging back to the main. Further, I went through the Learn git branching tutorial, which made me aware of the concepts of a head of a repository, modifying the source tree and more. It was an excellent hands-on tutorial about the ideas and code for branching. It could have been better for beginners as I had to do more research to understand the terms better.
+
