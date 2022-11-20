@@ -53,3 +53,5 @@ I am Abhishek Malpotra. In this assignment, I got familiar with cloning git repo
 I am Taniya, I studied trygit tutorial and I learned about git, github, clonning the repo on my system, how to fork, make new branches and merge them with master. Working on files, making changes in them and pushing them to github.  
 
 I'm yashkumar patel. I was assigned to learn trygit tutorial in which I studied create repository , push and pull requests and basic git commands . however,  before being able to use each of its functions smoothly, you need time to fully understand  software, this is because its learning curve can be somewhat high and more so if you are a beginner.
+
+I am Mitali Patel.I practised cloning git repositories, making branches, and merging them back into the main repository as part of this homework. I also read the Learn git branching tutorial, which introduced me to concepts like editing the source tree and the head of a repository. Excellent practical instruction on branching concepts and code was provided. It may have been more user-friendly for novices because I needed to do additional study to fully comprehend the phrases.
